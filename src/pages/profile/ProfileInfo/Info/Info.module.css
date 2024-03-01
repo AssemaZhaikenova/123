@@ -1,0 +1,21 @@
+.info .item + .item{
+    margin-top: .2em;
+}
+.info .item b{
+    color: black;
+    font-weight: 500;
+}
+.info span{
+    color: #080151;
+    font-weight: 500;
+}
+.info strong{
+    font-weight: 500;
+    color: #000000;
+}
+.contacts h2{
+    font-weight: 500;
+    font-size: 1.4em;
+    line-height: 1;
+    margin: .7em 0 .4em;
+}

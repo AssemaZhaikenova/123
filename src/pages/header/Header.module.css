@@ -1,0 +1,32 @@
+.header {
+    padding: .4em 1em;
+}
+
+.header a {
+    height: auto;
+    color: #FFFFFF;
+}
+
+.container {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    background-color: #FFFFFF;
+    color: #080151;
+    font-weight: 700;
+    border: 1px solid #080151;
+}
+
+.btn:hover {
+    background-color: #FFFFFF;
+    color: #6A2C91;
+}
+
+.successAuthedItem {
+    display: flex;
+    column-gap: 1em;
+    align-items: center;
+}
